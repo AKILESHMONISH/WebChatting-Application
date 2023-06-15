@@ -6,4 +6,4 @@
 
 ![Screenshot (21172)](https://github.com/AKILESHMONISH/WebChatting-Application/assets/100372708/57622fdc-9d76-4e02-841e-c74a3d7cccd4)
 
-![Screenshot (21172)](https://github.com/AKILESHMONISH/WebChatting-Application/assets/100372708/7111889e-a648-4282-ad83-27344aff38d7)
+![Screenshot (21171)](https://github.com/AKILESHMONISH/WebChatting-Application/assets/100372708/5a8e8db6-6319-42f3-ba78-3f75cce327f1)
